@@ -1,2 +1,2 @@
-Recipe-App
-Simple Android App MVVM + Retrofit + Room
+Simple recipe application using the following technologies
+MVVM + Retrofit + Room
