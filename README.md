@@ -11,7 +11,6 @@ Simple a recipe application that using the following technologies:
 
 * Retrofit
 * Gson Converter
-* Coroutines
 * Room
 * ViewModel & LiveData
 * Navigation 
