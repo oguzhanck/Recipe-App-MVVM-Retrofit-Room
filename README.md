@@ -10,8 +10,8 @@ Simple recipe application using the following technologies:
 ## Dependencies
 
 * Retrofit
-    * Gson Converter
-    * Coroutines
+* Gson Converter
+* Coroutines
 * Room
 * ViewModel & LiveData
 * Navigation 
