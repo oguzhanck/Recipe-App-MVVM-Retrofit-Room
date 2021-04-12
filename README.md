@@ -21,7 +21,7 @@ Simple recipe application using the following technologies:
 
 ## Features
 
-* Food Category and Region Recycleview
+* Vertical Food Category and Horizontal Region Recycleview
 * Loading Animations
 * Bottom Navigation Bar
 * Food List Recycleview by category or region
