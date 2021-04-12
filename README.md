@@ -17,16 +17,16 @@ Simple recipe application using the following technologies:
 * Navigation 
 * DataBinding; Binding Adapter
 * Picasso
-* okHttp
+* OkHttp
 
 ## Features
 
 * Food Category and Region Recycleview
 * Loading Animations
 * Bottom Navigation Bar
-* Food List Recycleview by Category or Region
-* Adding to Favorites on Food List Recycleview
+* Food List Recycleview by category or region
+* Adding to favorites on Food List Recycleview
 * Food Details
-* Adding Favorites and Going to Youtube Video on Food Details 
-* Favorites Page Where You Can View and Remove Your Favorites
-* Favorites are Stored at Local Database
+* Can add the recipe to your favorites and go to the recipe's youtube video with a button 
+* Favorites Page where you can view and remove your favorites
+* Favorites stored at Local Database
